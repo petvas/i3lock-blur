@@ -1,6 +1,6 @@
 # i3lock-blur
 
-simplest i3lock blur script only requirements is `ffmpeg`
+simplest i3lock blur script only requirements is `ffmpeg` [video](https://gfycat.com/SentimentalTemptingElephantbeetle)
 
 ##simple usecase:
 
