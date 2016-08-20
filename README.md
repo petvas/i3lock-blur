@@ -7,7 +7,7 @@ example: [video](https://gfycat.com/SentimentalTemptingElephantbeetle)
 ##simple usecase:
 
 1. put lock.png and lock.sh to the home folder
-2. chmode +x lock.sh
+2. chmod +x lock.sh
 3. add i3 config: `bindsym $mod+q exec ~/lock.sh` to bind lock to `mod+q`
 4. PROFIT!!!
 
