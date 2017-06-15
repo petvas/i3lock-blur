@@ -4,7 +4,7 @@ simplest i3lock blur script only requirements is `ffmpeg` and `xrandr`
 
 example: [video](https://gfycat.com/SentimentalTemptingElephantbeetle)
 
-##simple usecase:
+## simple usecase:
 
 1. put lock.png and lock.sh to the home folder
 2. chmod +x lock.sh
